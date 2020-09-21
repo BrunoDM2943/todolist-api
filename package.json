@@ -25,7 +25,7 @@
   "homepage": "https://github.com/BrunoDM2943/todolist-api#readme",
   "dependencies": {
     "express": "^4.16.3",
-    "mongodb": "^3.1.4",
+    "mongodb": "^3.1.13",
     "swagger-ui-express": "^4.0.1"
   }
 }
